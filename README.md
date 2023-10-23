@@ -13,7 +13,8 @@ Objectives:
 Since the telecommunications business is growing to be one of the largest in the world, competition has intensified due to advancements in technology and the growing number of operators. Telecommunication companies are striving to survive in this competitive industry, and strategies have been developed to generate substantial profits. Companies must reduce the likelihood of customer churn, often known as "the movement of customers from one service provider to another service provider," in order to increase customer retention.  In service industries where there is a rise in competitive services, customer attrition is regarded as a serious problem.
 
 ### Data Understanding
-The dataset provided information on the following features for each customer:
+The dataset provided information on the following features for each customer: 
+! [Churns vs state]
 * US State
 * Length of account
 * Area code + phone numbers
