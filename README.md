@@ -1,5 +1,5 @@
 # Phase 3 Project
-
+![project](https://github.com/ksila01/Phase-3-Project/blob/main/Images/download.jpg)
 ## Project Overview
 Our client, SyriaTel is a telecommunication company with a severe loss of valuable customers to its rivals. Understanding and predicting customer churn is essential in assessing the effectiveness of the company's marketing efforts to improve customer satisfaction. In the telecom sector, user acquisition and retention are the main issues. Every business's marketplace is expanding quickly, which is leading to a rise in the number of subscribers. As a result, businesses now understand how important it is to keep their current clientele. Service providers now need to lower their client turnover rate because neglecting to do so could hurt their business's profitability. Churn prediction helps to determine which customers are most likely to move from one organization to another.
 ### Objectives
@@ -31,6 +31,7 @@ The data contains 3333 unique values. No missing values, duplicates, or placehol
 51 states are included in the dataset
 #### EDA
 California and New Jersey report the highest number of customers terminating their contracts with the company while those with the lowest churn are Alaska and Hawaii
+![Churns vs customer service calls](https://github.com/ksila01/Phase-3-Project/blob/main/Images/churn%20customer%20service.PNG)
 
 ## Modeling
 To achieve the objectives of this project, we utilized four classification models including;
@@ -40,6 +41,8 @@ To achieve the objectives of this project, we utilized four classification model
 ** XG Boost Model
 **** XG Boost outperformed all other models with an accuracy of 97.6%. The testing accuracy of 97.6% suggests that the XGBoost classifier performs exceptionally well on the testing dataset, with a high level of correct classifications.
 Overall, the model exhibits excellent classification performance in both classes, with high precision and F1 scores, making it a strong candidate for this classification task.
+![confusion matrix ](https://github.com/ksila01/Phase-3-Project/blob/main/Images/Confusion%20matrix.PNG)
+
 
 We applied GridSearch to find the best parameters for our model and run our XGBoost classifier model with these parameters.
 
