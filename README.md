@@ -1,4 +1,8 @@
 # Phase 3 Project
+important links:
+https://github.com/ksila01/Phase-3-Project/blob/main/Classification%20Modeling.ipynb
+https://github.com/ksila01/Phase-3-Project/blob/main/Data%20preparation.ipynb
+https://github.com/ksila01/Phase-3-Project/blob/main/Exploratory%20data%20analysis%20(EDA).ipynb
 ![project](https://github.com/ksila01/Phase-3-Project/blob/main/Images/download.jpg)
 ## Project Overview
 Our client, SyriaTel is a telecommunication company with a severe loss of valuable customers to its rivals. Understanding and predicting customer churn is essential in assessing the effectiveness of the company's marketing efforts to improve customer satisfaction. In the telecom sector, user acquisition and retention are the main issues. Every business's marketplace is expanding quickly, which is leading to a rise in the number of subscribers. As a result, businesses now understand how important it is to keep their current clientele. Service providers now need to lower their client turnover rate because neglecting to do so could hurt their business's profitability. Churn prediction helps to determine which customers are most likely to move from one organization to another.
