@@ -14,7 +14,7 @@ Since the telecommunications business is growing to be one of the largest in the
 
 ### Data Understanding
 The dataset provided information on the following features for each customer: 
-! [Churns vs state](https://github.com/ksila01/Phase-3-Project/blob/main/Images/newplot.png)
+![Churns vs state](https://github.com/ksila01/Phase-3-Project/blob/main/Images/newplot.png)
 * US State
 * Length of account
 * Area code + phone numbers
